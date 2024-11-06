@@ -81,3 +81,8 @@ Para poder subir este informe a GitHub junto con el resto de datos, instalamos l
 ![](2.png)
 ![](3.png)
 ![](4.png)
+![](5.png)
+
+# Enlace al repositorio de GitHub
+
+El enlace al repositorio es el siguiente: https://github.com/Burungu3/Laourou-deAnton-Rodrigo-PEC1.
